@@ -17,5 +17,5 @@ Report from Jiří S.
 > Testování funkčnosti programu proběhlo úspěšně, kde bylo ověřeno, zda program zvládne v předem definovaném časovém rozmezí načíst relevantní data o počasí z externích stanic.<br>
 > Otestováno bylo také načítání dat z několika stanic naráz a za jiných předvoleb v konfiguraci s uspokojujícími výsledky. Načtená data byla relativně dobře čitelná v tabulkovém programu, až na vyjímku špatného stylování sloupců.
 
-## Sources
+## Used Sources
 https://github.com/dotnet/runtime/issues/13051
